@@ -6,7 +6,7 @@ Landing page desenvolvida para a **RS Representação Comercial**, empresa que r
 
 O objetivo da página é captar clientes que pesquisam por qualquer uma dessas marcas e direcioná-los ao **WhatsApp** da representação, com mensagens já preenchidas de acordo com a marca ou o tipo de negócio de interesse.
 
- **Site no ar:** _adicione aqui o link do Cloudflare Pages_
+ **Site no ar:** (https://rsrepresentantecomercial.pages.dev)
 
 ![Prévia da landing page](docs/preview-desktop.png)
 
