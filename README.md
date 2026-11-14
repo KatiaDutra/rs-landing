@@ -42,7 +42,7 @@ A página segue a identidade visual da RS Representação Comercial:
 
 Tipografia: **Montserrat** (títulos) e **Inter** (textos), via Google Fonts.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML5 semântico
 - CSS3 (Grid, Flexbox, variáveis CSS, animações e media queries)
