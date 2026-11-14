@@ -6,13 +6,13 @@ Landing page desenvolvida para a **RS Representação Comercial**, empresa que r
 
 O objetivo da página é captar clientes que pesquisam por qualquer uma dessas marcas e direcioná-los ao **WhatsApp** da representação, com mensagens já preenchidas de acordo com a marca ou o tipo de negócio de interesse.
 
-🔗 **Site no ar:** _adicione aqui o link do Cloudflare Pages_
+**Site no ar:** _adicione aqui o link do Cloudflare Pages_
 
 ![Prévia da landing page](docs/preview-desktop.png)
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - **Seção para cada marca**, com logo, diferenciais e produtos organizados em abas (erva-mate, chás, tereré, açaí, polpas, guloseimas, food service etc.).
 - **Botões de WhatsApp com mensagem automática**: cada botão abre a conversa com um texto diferente, indicando de qual marca o cliente veio.
@@ -29,7 +29,7 @@ O objetivo da página é captar clientes que pesquisam por qualquer uma dessas m
   <img src="docs/preview-mobile.png" alt="Versão mobile" width="24%">
 </p>
 
-## 🎨 Identidade visual
+## Identidade visual
 
 A página segue a identidade visual da RS Representação Comercial:
 
@@ -42,7 +42,7 @@ A página segue a identidade visual da RS Representação Comercial:
 
 Tipografia: **Montserrat** (títulos) e **Inter** (textos), via Google Fonts.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML5 semântico
 - CSS3 (Grid, Flexbox, variáveis CSS, animações e media queries)
@@ -50,7 +50,7 @@ Tipografia: **Montserrat** (títulos) e **Inter** (textos), via Google Fonts.
 - Ícones em SVG inline
 - Hospedagem: Cloudflare Pages
 
-## 📁 Estrutura
+## Estrutura
 
 ```
 rs-landing/
@@ -63,7 +63,7 @@ rs-landing/
 └── docs/                 # Imagens de prévia do README
 ```
 
-## ⚙️ Como configurar
+## Como configurar
 
 Os contatos e as mensagens do WhatsApp ficam reunidos num objeto `CONFIG`, no início do `<script>` do `index.html`:
 
@@ -88,7 +88,7 @@ cd rs-landing
 
 Ou use a extensão **Live Server** no VS Code.
 
-## 👩‍💻 Autora
+## Autora
 
 Desenvolvido por **Katia Dutra**, estudante de Tecnologia em Sistemas para Internet.
 
