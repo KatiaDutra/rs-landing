@@ -6,13 +6,13 @@ Landing page desenvolvida para a **RS Representação Comercial**, empresa que r
 
 O objetivo da página é captar clientes que pesquisam por qualquer uma dessas marcas e direcioná-los ao **WhatsApp** da representação, com mensagens já preenchidas de acordo com a marca ou o tipo de negócio de interesse.
 
-**Site no ar:** _adicione aqui o link do Cloudflare Pages_
+**Site no ar:** [rsrepresentantecomercial.pages.dev](https://rsrepresentantecomercial.pages.dev)
 
 ![Prévia da landing page](docs/preview-desktop.png)
 
 ---
 
-##  Funcionalidades
+## Funcionalidades
 
 - **Seção para cada marca**, com logo, diferenciais e produtos organizados em abas (erva-mate, chás, tereré, açaí, polpas, guloseimas, food service etc.).
 - **Botões de WhatsApp com mensagem automática**: cada botão abre a conversa com um texto diferente, indicando de qual marca o cliente veio.
@@ -77,7 +77,7 @@ const CONFIG = {
 
 Para trocar o número ou ajustar um texto, basta editar esse trecho.
 
-## ▶️ Como rodar localmente
+## Como rodar localmente
 
 Não há dependências nem etapa de build. Basta clonar o repositório e abrir o `index.html` no navegador:
 
